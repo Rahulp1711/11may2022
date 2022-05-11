@@ -1,1 +1,3 @@
-#include<stdio.h>
+python
+java
+include<stdio.h>
